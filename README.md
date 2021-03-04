@@ -20,9 +20,10 @@ It is not guaranteed that it will find a perfect match, actually the chances are
 ## How to use it
 Once you installed the libraries, you need to put into the _ImageInput_ folder a **front faced**, **clear**, and **up close** picture of your face. You can also put multiple pictures for better results. An example of how the picture should be is below: 
 
-![Picture Example](https://thispersondoesnotexist.com/image)
+<img src="https://thispersondoesnotexist.com/image" width="200" height="200">
 
 Whenever a match is found, the image will be placed in the _PossibleMatches_ folder.
+
 ***
 #### Be aware that finding a suitable match might take time, a lot of time. That if it even finds a match.
 
