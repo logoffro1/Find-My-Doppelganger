@@ -13,11 +13,12 @@ By providing a photo of your face (a template), the program is going to search f
 
 ## Libraries used
 [jsoup 1.13.1](https://jsoup.org/download)
+
 [opencv 4.5.1](https://opencv.org/releases/)
 ## How to use it
 Once you installed the libraries, you need to put into the _ImageInput_ folder a **front faced**, **clear**, and **up close** picture. You can also put multiple pictures for better results. An example of how the picture should be is below: 
 
-![Picture Example] (image.png)
+![Picture Example](https://thispersondoesnotexist.com/image)
 
 Whenever a match is found, the image will be placed in the _PossibleMatches_ folder.
 
