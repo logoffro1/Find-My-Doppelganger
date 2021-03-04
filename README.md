@@ -11,7 +11,7 @@ It is just a matter of time until it will generate a face that looks just like y
 
 By providing a photo of your face (a template), the program is going to search for a face that matches best the provided template.
 
-It is not guaranteed that it will find a perfect match, actually the chances are quite slim, however, given enough time it will find something pretty close, or at least it will give you a few laughs about the matches it found.
+It is not guaranteed that it will find a perfect match, actually the chances are very slim, however, given enough time it will find something pretty close, or at least it will give you a few laughs about the matches it found.
 
 ## Libraries used
 [jsoup 1.13.1](https://jsoup.org/download)
