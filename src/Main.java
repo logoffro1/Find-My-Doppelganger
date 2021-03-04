@@ -112,7 +112,7 @@ public class Main
 
             //Save image
             final String MATCHES_FOLDER = "C:\\Users\\logoff\\IdeaProjects\\Find-My-Doppelganger\\PossibleMatches";
-            Imgcodecs.imwrite(String.format("%s\\result%s(%d).png", MATCHES_FOLDER, mmr.maxVal, ++matchCount), source);
+            Imgcodecs.imwrite(String.format("%s\\%s(%d).png", MATCHES_FOLDER, mmr.maxVal, ++matchCount), source);
             System.out.printf("Match found! Max val: %s%n", mmr.maxVal);
         }
     }
