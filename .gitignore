@@ -3,3 +3,4 @@ ImageInput/*
 PossibleMatches/*
 !PossibleMatches/.gitkeep
 image.png
+.idea
